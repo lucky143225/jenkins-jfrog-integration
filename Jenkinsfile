@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        maven "WVN3"
+        maven "mvn"
     }
 
     stages {
